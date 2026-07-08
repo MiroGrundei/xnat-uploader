@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+# Credentials and client certificates
+.env
+*.pem
+*.p12
+*.pfx
+*.key
+
+# Research data and upload archives
+data/
+scans/
+*.zip
+*.dcm
+*.nii
+*.nii.gz
